@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
   <channel>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="https://po-zhenski.podigee.io/feed/mp3" rel="self"/>
-    <atom:link href="https://po-zhenski.podigee.io/feed/mp3" rel="first"/>
-    <atom:link href="https://po-zhenski.podigee.io/feed/mp3?page=1" rel="last"/>
+    <atom:link href="https://raw.githubusercontent.com/afarber/po-zhenski/main/feed.xml" rel="self"/>
+    <atom:link href="https://raw.githubusercontent.com/afarber/po-zhenski/main/feed.xml" rel="first"/>
+    <atom:link href="https://raw.githubusercontent.com/afarber/po-zhenski/main/feed.xml?page=1" rel="last"/>
     <title>Чисто по-женски</title>
     <language>ru</language>
     <pubDate>Fri, 02 Apr 2021 08:11:40 +0000</pubDate>
@@ -12,12 +12,12 @@
     <description>После 40 становится еще интереснее!
 Мы - Лена и Лариса, нам 40 + и этот возраст вдохновляет нас каждый день.
 В нашем подкасте мы будем серьезными, смешными, эмоциональными - очень разными и по-своему уникальными, как и все женщины.</description>
-    <link>https://po-zhenski.podigee.io/</link>
+    <link>https://github.com/afarber/po-zhenski/</link>
     <itunes:type>episodic</itunes:type>
     <image>
       <url>https://github.com/afarber/po-zhenski/raw/main/po-zhenski-1400x1400.jpg</url>
       <title>Чисто по-женски</title>
-      <link>https://po-zhenski.podigee.io/</link>
+      <link>https://github.com/afarber/po-zhenski/</link>
     </image>
     <itunes:image href="https://github.com/afarber/po-zhenski/raw/main/po-zhenski-1400x1400.jpg"/>
     <itunes:subtitle/>
@@ -43,7 +43,6 @@
 Оставайтесь с нами, слушайте и улыбайтесь!
 Ждём вас в гости на instagram: @podcast_po_zhenski</description>
       <pubDate>Mon, 18 Oct 2021 04:55:00 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/14-mixed</link>
       <guid isPermaLink="false">a88b4e76bbfe734c777f7b5162962680</guid>
       <content:encoded>
         <![CDATA[
@@ -77,7 +76,6 @@
 Для нас же праздник - это именно то волшебство, которое дарит нам целый ворох незабываемых и разнообразных эмоций. То самое чудо неповторимой атмосферы, которое ещё долго хранится в нашей душе и памяти. В новом эпизоде мы вспоминали праздники и традиции из детства. Выяснили кого Лена такая Веселуха-Зажигалочка и почему Лариса так полюбила Рождество.
 Утратили ли праздники свою настоящию сущность в современном обществе? Или же МЫ деградировали в процессе приготовления и гонок - больше, круче, дороже - до коммуникативного однообразие и бедности?!</description>
       <pubDate>Tue, 28 Sep 2021 07:00:00 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/13-neue-episode</link>
       <guid isPermaLink="false">0d637842fe76bb550168f6dfffb1d7f8</guid>
       <content:encoded>
         <![CDATA[
@@ -104,7 +102,6 @@
 Но как и в любых отношениях между людьми, даже дружба не всегда может противостоять нападкам негатива или эмоциональным всплескам.
 В новом эпизоде вас ждут истории о потерянных друзьях, а также вы узнаете, какие критерии к друзьям есть у Лены и почему ей ни в коем случае не нужно просить помощи ночью у Ларисы. Заодно мы находим еще одно преимущество нашего "зрелого" возраста в отношении к дружбе и поговорим, можно ли восстановить отношения спустя много лет.</description>
       <pubDate>Tue, 07 Sep 2021 04:30:00 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/12-o-druzhbe</link>
       <guid isPermaLink="false">d869f1ef7d519f5ac8344b8044ed6358</guid>
       <content:encoded>
         <![CDATA[
@@ -140,7 +137,6 @@
 Ожидания от событий, людей, мест - неизменная часть нашей прекрасной и разнообразной жизни, и именно этой теме посвящен наш выпуск.
 Ждём вас в гости в нашем подкасте «Чисто по-женски» ❤️</description>
       <pubDate>Tue, 10 Aug 2021 07:45:45 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/11-ob-ozhidanijax</link>
       <guid isPermaLink="false">f460a313d9bf1e89133c5a4ffe10123f</guid>
       <content:encoded>
         <![CDATA[
@@ -180,7 +176,6 @@
       <itunes:title>Да, нас бесят люди. И это нормально?!</itunes:title>
       <description>В нынешнем, ах столь толерантном обществе не принято открыто, в меру дерзко и честно раздражаться людьми. Как в общем, так и в частности. Ещё модно быть cool - эмоционально уравновешенной, слегка безразличной и до жути уверенной в своей уникальности персоной. Но, если вдруг кто и осмелится выссказаться критично, на эмоциях так сказать, на чей-то счёт выбеситься, то снизойдёт на него кара великая, социальномедийная. "Сгнобят заживо"! Ох, уж эти двойные стандарты. Но мы Взрослые (40+)) и Безстрашные, а посему нашемк 10му эпизоду чисто по-женски о том, что, как и почему нас выводят из себя люди?, быть! Кстати, на нашей страничке в инстаграме podcast_po_zhenski разрешается под любым постом дать волю своим эмоциям в словесном виде, на наш счёт или по теме. Заглядывайте, будем рады!</description>
       <pubDate>Tue, 27 Jul 2021 08:00:00 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/10-neue-episode</link>
       <guid isPermaLink="false">f0448e3eb45247fa78b9c2f54669b30d</guid>
       <content:encoded>
         <![CDATA[
@@ -202,7 +197,6 @@
 О том, как нам удалось (хочется надеяться)) привить те самые тёплые чувства к уборке и порядку нашим детям мы очень охотно делимся. Но и это ещё не всё! Мы были бы не мы, если б этот выпуск остался без кульминациого анекдота, а именно о взрослых игрушках для мам. Ну что, заинтригованны?! Тогда эпизод номер 9 к прослушиванию ОБЯЗАТЕЛЕН!
 P. S.: Заходитe к нам на страницу в инстаграме podcast_po_zhenski, не пожалеете. Обещаем! Ваши Лариса &amp; Лена</description>
       <pubDate>Tue, 13 Jul 2021 08:00:00 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/9-neue-episode</link>
       <guid isPermaLink="false">6a44e858589acdaaa3e29a3a4a728393</guid>
       <content:encoded>
         <![CDATA[
@@ -232,7 +226,6 @@ P. S.: Заходитe к нам на страницу в инстаграме p
 Наш оптимизм в некоторых вопросах неисправим!
 PS: будем рады видеть вас в нашем инстаграме, заходите в гости: https://www.instagram.com/podcast_po_zhenski/, вам точно понравится!</description>
       <pubDate>Tue, 29 Jun 2021 04:30:00 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/8-o-zavisti</link>
       <guid isPermaLink="false">ec7c1b3614f29ef956141b5270e1d2f4</guid>
       <content:encoded>
         <![CDATA[
@@ -262,7 +255,6 @@ PS: будем рады видеть вас в нашем инстаграме, 
 Мы пытаемся отличить ошибки от неудач и осознать, какие следы оставляют эти неприятные события в нашей жизни.
 Лена сетует на то, что по-прежнему наступает на одни и те же грабли в общении с людьми, а Лариса делится непростой историей из студенческих времен, которая очень сильно изменила её мировоззрение.</description>
       <pubDate>Tue, 15 Jun 2021 06:05:33 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/7-o-provalax</link>
       <guid isPermaLink="false">8e13ac55baf9c5de83b0f30d669a854d</guid>
       <content:encoded>
         <![CDATA[
@@ -292,7 +284,6 @@ PS: будем рады видеть вас в нашем инстаграме, 
 Вы узнаете, как мы относимся к пластике и почему Лариса до сих пор считает, что она «бэби в песочнице», а также услышите, какую часть тела Лена очень давно мечтает отдать под нож.
 Честно, открыто, самокритично и весело - только с нами!</description>
       <pubDate>Tue, 01 Jun 2021 08:35:52 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/6-ob-uxode</link>
       <guid isPermaLink="false">51693b445a78fa3dc604c8c8b9870c84</guid>
       <content:encoded>
         <![CDATA[
@@ -318,7 +309,6 @@ PS: будем рады видеть вас в нашем инстаграме, 
 С нашим молодым гостем мы обсудили соблазны и опасности первой свободы в 18 лет, а также  поделились своими мечтами и планами в наши милые 
 двадцать плюс и сегодняшние замечательные сорок с хвостиком.</description>
       <pubDate>Tue, 18 May 2021 07:35:53 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/5-viktor</link>
       <guid isPermaLink="false">d358985f540ce339beddaf23b496e8d1</guid>
       <content:encoded>
         <![CDATA[
@@ -348,7 +338,6 @@ PS: будем рады видеть вас в нашем инстаграме, 
 
 Присоединятесь к нам, оставляйте комментарии с вашими увлекательными историями из женской жизни в нашем инстаграме, мы будем очень рады!</description>
       <pubDate>Tue, 04 May 2021 07:40:29 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/4-kak-vse-uspet</link>
       <guid isPermaLink="false">6a32bd655bb447b030b02f7a21d1e8ff</guid>
       <content:encoded>
         <![CDATA[
@@ -381,7 +370,6 @@ PS: будем рады видеть вас в нашем инстаграме, 
       <description>Сегодня вас ждет трогательная история первого курортного романа десятилетней короткостриженой Лены, ради которой в Тянь-Шаньских горах был нарушен закон об охране природы.
 А также услышите, куда отправилась двадцатилетняя Лариса в свой самый первый настоящий отпуск и что стало самым ярким впечатлением для неё.</description>
       <pubDate>Tue, 20 Apr 2021 08:15:06 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/3-neue-episode</link>
       <guid isPermaLink="false">2977cd65e365fe92708946fb8c155e6e</guid>
       <content:encoded>
         <![CDATA[
@@ -406,7 +394,6 @@ PS: будем рады видеть вас в нашем инстаграме, 
 Кроме того, удивляемся наивности Ларисы и размышляем, как и чем одарить себя, любимых.
 В общем, услышите много весёлого, а может быть даже и полезного.</description>
       <pubDate>Tue, 06 Apr 2021 08:30:25 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/2-o-podarkax</link>
       <guid isPermaLink="false">eb2ee665decccf1250f31071468bd3bc</guid>
       <content:encoded>
         <![CDATA[Эмоциональные качели женщин или отправьте меня куда-нибудь одну!
@@ -433,7 +420,6 @@ PS: будем рады видеть вас в нашем инстаграме, 
       <description>В первом эпизоде: одна из нас случайно нашла себе мужа на просторах интернета, а вторая много говорила по телефону и ее будущий муж приехал к ней из Казахстана в Германию.
 Вы узнаете о наших слабостях и сильных сторонах и поймете, что мы вообше за птицы такие.</description>
       <pubDate>Fri, 02 Apr 2021 08:35:24 +0000</pubDate>
-      <link>https://po-zhenski.podigee.io/1-znakomstvo</link>
       <guid isPermaLink="false">fdc0337e74a3259a50696a952684585b</guid>
       <content:encoded>
         <![CDATA[Мы не подруги, видели друг друга всего три раза, но решили запустить вместе подкаст.
