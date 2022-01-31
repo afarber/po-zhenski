@@ -14,5 +14,5 @@ Larissa Farber, Lena Schmidt
 
 [Instagram @podcast_po_zhenski](https://www.instagram.com/podcast_po_zhenski/)
 
-![image](https://raw.githubusercontent.com/afarber/po-zhenski/main/po-zhenski-1400x1400.jpg){:height="360px" width="360px"}
+![image](https://raw.githubusercontent.com/afarber/po-zhenski/main/po-zhenski-1400x1400.jpg)
 
